@@ -34,12 +34,8 @@ This mod contains many small things for Players, Curators and Mission Makers.
 # Contributors
 [LucyferHW](https://github.com/MHWcreations)
 
+
 [Wollkopf](https://github.com/w0llkopf)
-
-Lars
-
-Fronthalter
-
 # Credits
 [Tactical Bacon](https://tacticalbacon.de)
 
